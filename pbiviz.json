@@ -1,0 +1,23 @@
+{
+  "visual": {
+    "name": "Pareto Chart",
+    "displayName": "paretoChart",
+    "guid": "PBI_CV_9894B302_1DFF_4A96_ABFE_BF8588197166",
+    "visualClassName": "ParetoChart",
+    "version": "4.1.0.0",
+    "description": "Sample pareto chart",
+    "gitHubUrl": "https://github.com/KuroiKoyani/pareto-chart.git",
+    "supportUrl": "https://example.com"
+  },
+  "apiVersion": "5.8.0",
+  "author": {
+    "name": "Yana Talnova",
+    "email": "shiroikoyani@gmail.com"
+  },
+  "assets": {
+    "icon": "assets/icon.png"
+  },
+  "externalJS": [],
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json"
+}
